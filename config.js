@@ -15,8 +15,8 @@ global.APIKeys = {
 // Other
 global.owner = ['6283131214121']
 global.premium = ['6283131214121']
-global.packname = 'LoliBot MD'
-global.author = 'LoliBot MD'
+global.packname = 'KENMA MD'
+global.author = 'KENMA MD'
 global.sessionName = 'ZassXdId'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
