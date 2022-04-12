@@ -1288,13 +1288,13 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/zass-Morou'
+                                    displayText: 'INSTAGRAM 📍',
+                                    url: 'https://www.instagram.com/Kevinafsar_'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 831-3121-4121'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1327,13 +1327,13 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/zass-Morou'
+                                    displayText: 'INSTAGRAM 📍',
+                                    url: 'https://www.instagram.com/Kevinafsar_'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 831-3121-4121'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2770,7 +2770,7 @@ Silahkan Chat Owner
 │• Runtime : ${runtime(process.uptime())}
 │• Library : *Baileys-MD*
 │• Script Dibuat Oleh Bot Indo 
-│https://www.youtube.com/c/BOTINDO
+│©Kevin afsar
 ╰───────────────┈ ⳹`
 let message = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/apri.jpg') }, { upload: zass.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -2780,13 +2780,13 @@ imageMessage: message.imageMessage,
 hydratedContentText: txt,
 hydratedButtons: [{
 urlButton: {
-displayText: 'YouTube',
-url: 'https://www.youtube.com/c/BOTINDO'
+displayText: 'Instagram 📍',
+url: 'https://www.instagram.com/Kevinafsar_'
 }
 }, {
 urlButton: {
-displayText: 'Github',
-url: 'https://github.com/Aprilia3'
+displayText: 'Web 📍',
+url: 'https://kevinafsarmanik.github.io/bucinadeep/'
 }
 }, {
 quickReplyButton: {
@@ -2818,15 +2818,16 @@ roti = `╭─⧉
 │• Nama Owner : ${ownername}
 │• Runtime : ${runtime(process.uptime())}
 │• Library : *Baileys-MD*
-│• Script Dibuat Oleh Bot Indo 
-│https://www.youtube.com/c/BOTINDO
+│• INSTAGRAM 📍: https://www.instagram.com/Kevinafsar_
+│©Kevin afsar
+
 ╰───────────────┈ ⳹`
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                 listMessage :{
                     title: `Hi ${pushname}`,
                     description: `${roti}`,
                     buttonText: "LIST MENU >_<",
-                    footerText: "Loli bot-MD",
+                    footerText: "KENMA MD",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Fitur Grup",
@@ -3841,13 +3842,13 @@ break
 └───────⭓`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/zass-Morou'
+                                    displayText: 'INSTAGRAM 📍',
+                                    url: 'https://www.instagram.com/Kevinafsar_'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                    phoneNumber: '+62 831-3121-4121'
                                 }
                             }, {
                                 quickReplyButton: {
